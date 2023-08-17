@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page1{
+    width: 100%;
+    height: 100vh;
+    background: #e57474;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page2{
+    width: 100%;
+    height: 100vh;
+    background: #c1ea62;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page3{
+    width: 100%;
+    height: 100vh;
+    background: #0eecb5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background: #000;
+}
